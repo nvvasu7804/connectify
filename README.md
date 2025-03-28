@@ -66,23 +66,3 @@ A Full Stack Application of our Social Media App with a real-time chatting platf
 >
 
 #### Note: Use mongodb atlas url and create cloudinary account to store your images. Paste your links in process.env respectively. 
-
-
-## Demo Credentials:-
-
-<details>
-<summary>Admin Login</summary>
-
-- email: admin@gmail.com  
-password: admin123
-</details>
-
-<details>
-<summary>Users Login</summary>
-
-- User1 email: lisan@gmail.com  
-password: lisan123
-
-- User2 email: vishnu@gmail.com  
-password: vishnu123
-</details>
